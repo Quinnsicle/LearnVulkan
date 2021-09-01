@@ -1,0 +1,3 @@
+﻿  HelloTriangleApplication.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LearnVulkan.vcxproj -> C:\Users\Quinn\source\repos\LearnVulkan\x64\Debug\LearnVulkan.exe
